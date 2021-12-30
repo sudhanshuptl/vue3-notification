@@ -153,7 +153,7 @@ export default defineComponent({
 
     closeOnClick: {
       type: Boolean,
-      default: true,
+      default: false,
     },
 
     pauseOnHover: {
